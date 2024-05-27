@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my skills.<br>🌱 I’m currently learning Java at Hanzehogeschool Groningen.<br>💬 Ask me about anything
+🔭 I’m currently working on developing my skills.<br>🌱 I am currently working at a project aimed at developing a robot for sorting diseased potatoes at Hanzehogeschool Groningen.<br>💬 Ask me about anything
 
 
 # 💻 Tech Stack:
